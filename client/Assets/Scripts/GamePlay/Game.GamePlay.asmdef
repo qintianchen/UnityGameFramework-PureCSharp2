@@ -1,8 +1,12 @@
 {
-    "name": "Game.Main",
+    "name": "Game.GamePlay",
     "rootNamespace": "",
     "references": [
-        "GUID:f286bd7012dab2f439a5d73e73f80c05"
+        "GUID:81970b52f271eb14f811a02d4152bc6f",
+        "GUID:4d5456965f7781949b949d80899b2eda",
+        "GUID:7d754cd2cfa5e2944b7f65a1151b4e00",
+        "GUID:343deaaf83e0cee4ca978e7df0b80d21",
+        "GUID:2bafac87e7f4b9b418d9448d219b01ab"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
